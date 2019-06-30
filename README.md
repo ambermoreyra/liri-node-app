@@ -3,6 +3,7 @@
 In this CLI app, the user is able to obtain more information about movies, songs, and upcoming concerts.
 
 Overall, there are four sections:
+
     1. Search the spotify-node-api for songs using "spotify-this-song" as the first argument and the song title as the second argument. This will output the following information.
         1. Artist name
         2. Song name
@@ -32,3 +33,23 @@ Overall, there are four sections:
     4. The user can also input any of these search terms into the log.txt file separating the first and second arguments with a comma. The user will then enter "do-what-it-says" into the command line. This will output one of the first three options.
 
         ![do-what-it-says example screenshot](/img/do_what_it_says_example.png)
+
+    https://ambermoreyra.github.io/liri-node-app/
+    [Git Hub deployed link]
+
+    https://github.com/ambermoreyra/liri-node-app
+    [Git Hub repository]
+
+    Technologies used:
+        1. javascript
+        2. jQuery
+        3. moment.js
+        4. node.js
+        5. fs
+        6. axios
+        7. apis
+            1. spotify-node-api
+            2. omdb
+            3. bandsintown
+    
+    Role: Developer
