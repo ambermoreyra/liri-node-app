@@ -28,7 +28,7 @@ Overall, there are four sections:
         2. Location
         3. Date
 
-        ![Bands In Town example screenshot](/img/bands_in_town_example.png)
+        ![Bands In Town example screenshot](https://github.com/ambermoreyra/liri-node-app/blob/master/img/bands_in_town_example.png?raw=true)
 
     4. The user can also input any of these search terms into the log.txt file separating the first and second arguments with a comma. The user will then enter "do-what-it-says" into the command line. This will output one of the first three options.
 
